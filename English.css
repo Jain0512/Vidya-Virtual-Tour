@@ -1,7 +1,4 @@
-html, body {
-    overflow: hidden; /* Disables scrolling */
-    height: 100%;
-}
+
 
 .main{
     width: 100%;
@@ -15,7 +12,7 @@ html, body {
     margin: auto;
     padding: 20px;
     height: 100vh; /* Ensures the main container fits within the viewport */
-    overflow: hidden;
+    
 }
 
 .header{
